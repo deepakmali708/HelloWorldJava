@@ -1,6 +1,6 @@
 package com.qaagility.controller;
 
-import src.java.com.qaagility.javaee;
+import com.qaagility.javaee.Calcmul;
 
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
