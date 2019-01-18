@@ -26,6 +26,12 @@ public class CalcTest {
       public void testCalc1() {
         assertEquals("Result - Fail", 9, 9);
       }
+	@Test	
+      public void Test111() {
+Calcmul pp=new Calcmul();
+int res=pp.mul();
+        assertEquals("Result - Fail", 18, res);
+      }
 	
 	
     }
