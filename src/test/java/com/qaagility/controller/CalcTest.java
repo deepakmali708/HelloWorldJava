@@ -32,7 +32,7 @@ public class CalcTest {
       public void Test111() {
 Calcmul pp=new Calcmul();
 int res=pp.mul();
-        assertEquals("Result - Fail", 18, res);
+        assertEquals("Result - Fail", 17, res);
       }
 	
 	
